@@ -1,0 +1,32 @@
+@media screen and (max-width:980px)
+                                 { 
+                                     .part1 
+                                          {
+                                            flex:none;
+                                            justify-content: space-around;
+                                            width: 100%;
+                                        }
+                                    .logo img
+                                        {
+                                           height: 26px;
+                                           width: 193px;
+                                        }
+                                    /*.logo p img 
+                                        {
+                                           height: 30px;
+                                           width: 30px;
+                                        }*/
+                                    .part1 .text
+                                           {
+                                            display: none;
+                                           }
+                                    .part1 .logo
+                                               {
+                                                float: left;
+                                               }
+                                    .part2 
+                                         {
+                                            flex: none;
+                                            width: 100%;
+                                         }
+                                 }
